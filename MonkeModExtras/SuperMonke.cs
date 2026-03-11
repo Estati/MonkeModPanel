@@ -28,7 +28,7 @@ public class SuperMonke : Monke_Mod_Panel.Mod
         
         if (nograv)
         {
-            GorillaLocomotion.GTPlayer.Instance.bodyCollider.attachedRigidbody.velocity += GorillaLocomotion.GTPlayer.Instance.bodyCollider.transform.up * 9.9f * Time.deltaTime;
+            GorillaLocomotion.GTPlayer.Instance.bodyCollider.attachedRigidbody.velocity += GorillaLocomotion.GTPlayer.Instance.bodyCollider.transform.up * 9.9f * Time.deltaTime * GorillaLocomotion.GTPlayer.Instance.scale;
         }
     }
 }
