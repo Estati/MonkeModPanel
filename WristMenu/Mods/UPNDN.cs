@@ -12,11 +12,11 @@ public class UPNDN : Monke_Mod_Panel.Mod
     {
         if (ControllerInputPoller.instance.rightControllerIndexFloat > 0.5)
         {
-            GorillaLocomotion.GTPlayer.Instance.bodyCollider.attachedRigidbody.velocity += GorillaLocomotion.GTPlayer.Instance.bodyCollider.transform.up * 25f * Time.deltaTime;
+            GorillaLocomotion.GTPlayer.Instance.bodyCollider.attachedRigidbody.velocity += GorillaLocomotion.GTPlayer.Instance.bodyCollider.transform.up * 25f * Time.deltaTime * GorillaLocomotion.GTPlayer.Instance.scale;
         }
         if (ControllerInputPoller.instance.leftControllerIndexFloat > 0.5)
         {
-            GorillaLocomotion.GTPlayer.Instance.bodyCollider.attachedRigidbody.velocity += GorillaLocomotion.GTPlayer.Instance.bodyCollider.transform.up * -25f * Time.deltaTime;
+            GorillaLocomotion.GTPlayer.Instance.bodyCollider.attachedRigidbody.velocity += GorillaLocomotion.GTPlayer.Instance.bodyCollider.transform.up * -25f * Time.deltaTime * GorillaLocomotion.GTPlayer.Instance.scale;
         }
     }
 }
