@@ -13,9 +13,10 @@ You can make your own Panel extenstions by forking this repo and using the "Mod 
 
 The base mod comes with Platforms & Up and Down built in <br/> Monke Mod Extras comes with all of my BananaOS integrations remade for the latest version of gorilla tag aswell as a few new things! <br/>
 
-### Up and Down <br/> ![Alt text for the image](https://private-user-images.githubusercontent.com/80132671/561283455-4562cb5d-c047-4634-a4a9-40e2c247a23a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMyOTExMjQsIm5iZiI6MTc3MzI5MDgyNCwicGF0aCI6Ii84MDEzMjY3MS81NjEyODM0NTUtNDU2MmNiNWQtYzA0Ny00NjM0LWE0YTktNDBlMmMyNDdhMjNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzEyVDA0NDcwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwMTYyODg2MTQxNmY2ODc1M2MwYjg4NWViYjQ1OWFlOGFmY2MzYzRiMTAzZjhkNDA2YWMxYjgyZmJmMTQ0NWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Jx8IvI7awUA8eVDTTpMkbjVtPhxW_iy2SgFD_l6Pw7A) <br/>
+### Up and Down <br/> 
+![Alt text for the image](https://files.elliemese.win/updwn.gif) <br/>
 ### Platforms
-![Alt text for the image](https://private-user-images.githubusercontent.com/80132671/561282953-f03c2eb0-d3f8-4012-b646-44a434dc949d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMyOTExMjQsIm5iZiI6MTc3MzI5MDgyNCwicGF0aCI6Ii84MDEzMjY3MS81NjEyODI5NTMtZjAzYzJlYjAtZDNmOC00MDEyLWI2NDYtNDRhNDM0ZGM5NDlkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzEyVDA0NDcwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkYTMzZjYzN2UwZjNhNjFjYmNmZDg3ODM3ZDRhODcyMWJlYjVhNDQxYTkyYzcxY2E5YjYwMDc4MmE2MTk4NjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wK3Eys857XQ65B3Y_g4dWWS9VqRmg8VTpxkg_0ouW8c) <br/>
+![Alt text for the image](https://files.elliemese.win/plats.gif) <br/>
 ### Super Monke
 [bmTPW.gif](https://s13.gifyu.com/images/bmTPW.gif) <br/>
 ### Grip Monke
