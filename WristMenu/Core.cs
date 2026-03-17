@@ -13,7 +13,7 @@ using UnityEngine.XR;
 using HarmonyLib;
 using GorillaLibrary;
 
-[assembly: MelonInfo(typeof(Monke_Mod_Panel.Core), "Monke Mod Panel", "1.0.0", "Estatic & biotest05", null)]
+[assembly: MelonInfo(typeof(Monke_Mod_Panel.Core), "Monke Mod Panel", "1.0.5", "Estatic & biotest05", null)]
 [assembly: MelonGame("Another Axiom", "Gorilla Tag")]
 
 namespace Monke_Mod_Panel

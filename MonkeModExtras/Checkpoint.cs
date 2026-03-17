@@ -7,7 +7,7 @@ namespace ModTemplate;
 [Toggleable]
 public class Checkpoint : Monke_Mod_Panel.Mod
 {
-    public override string Name => "CheckPoint";
+    public override string Name => "Checkpoint";
     private GameObject checkpointer;
     public float maxDistance = 100f;
     public bool enablayd;
