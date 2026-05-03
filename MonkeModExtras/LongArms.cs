@@ -1,6 +1,6 @@
 ﻿using Monke_Mod_Panel.Attributes;
 using UnityEngine;
-using GorillaLibrary.GameModes.Attributes;
+using GorillaLibrary.Attributes;
 
 
 namespace ModTemplate;

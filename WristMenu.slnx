@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="MonkeModExtras/MonkeModExtras.csproj" />
   <Project Path="WristMenu/WristMenu.csproj" />
+  <Project Path="BetaSlides/BetaSlides.csproj" />
   <Project Path="ModTemplate/ModTemplate.csproj">
     <Build Solution="Debug|*" Project="false" />
   </Project>

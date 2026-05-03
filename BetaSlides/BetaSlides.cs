@@ -1,7 +1,7 @@
 ﻿using MelonLoader;
 using Monke_Mod_Panel.Attributes;
 using UnityEngine;
-using GorillaLibrary.Content.Utilities;
+using GorillaLibrary.Utilities;
 using GorillaLibrary.Models;
 
 namespace ModTemplate;

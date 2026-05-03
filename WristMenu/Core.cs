@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
-using GorillaLibrary.GameModes.Attributes;
+using GorillaLibrary.Attributes;
 using GorillaNetworking;
 using Monke_Mod_Panel.Attributes;
 using TMPro;
